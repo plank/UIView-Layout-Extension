@@ -3,6 +3,7 @@
 //  Plank Multimedia Inc.
 //
 //  Created by Sean Fraser on 2013-08-28.
+//  http://www.plankdesign.com/blog/2013/08/making-uiviews-friendlier/
 //  Copyright (c) 2013 Plank Multimedia Inc. All rights reserved.
 //
 

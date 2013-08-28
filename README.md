@@ -1,6 +1,8 @@
 # UIView Layout Extension
 
-A collection of methods for facilitating creating layouts with UIViews
+A collection of methods for facilitating creating layouts with UIViews.
+
+Consult the [Plank Blog](http://www.plankdesign.com/blog/2013/08/making-uiviews-friendlier/) for documentation and explanation.
 
 ## Usage
 
